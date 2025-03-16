@@ -83,7 +83,7 @@ def main():
         print(" ".join(f"({par[0]}, {par[1]})" for par in equivalentes))
 
 if __name__ == "__main__":
-    main()
+    main()   
 
 
 
